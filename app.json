@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "rocketsup",
+    "slug": "rocketsup",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
