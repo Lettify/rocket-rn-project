@@ -5,7 +5,7 @@ import { VStack, HStack, Text, Box, useTheme } from 'native-base';
 type Props = {
     title: string;
     description: string;
-    footer: string;
+    footer?: string;
     icon: React.ElementType<IconProps>;
     children?: ReactNode;
 }
